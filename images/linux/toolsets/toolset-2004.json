@@ -115,7 +115,6 @@
             "openssh-client",
             "p7zip-rar",
             "pkg-config",
-            "python-is-python3",
             "rpm",
             "texinfo",
             "tk",
